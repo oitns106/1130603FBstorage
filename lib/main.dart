@@ -9,7 +9,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:video_player/video_player.dart';
-import 'firebase_options.dart';
+import 'firebase_options.dart';        //請各位同學自行產生
 import 'package:intl/intl.dart';
 import 'package:dio/dio.dart';
 
