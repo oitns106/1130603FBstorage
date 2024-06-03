@@ -1,6 +1,6 @@
 # fbs11305271
 
-A new Flutter project.
+  Firebase Storage example.
 
 ## Getting Started
 
